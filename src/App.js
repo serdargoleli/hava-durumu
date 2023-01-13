@@ -95,10 +95,10 @@ function App() {
         )}
       </div>
       <div className="social-media">
-        <a href="https://github.com/serdargoleli/" target="_blank">
+        <a href="https://github.com/serdargoleli/" rel="noreferrer" target="_blank">
           ~ GitHub
         </a>
-        <a href="https://www.linkedin.com/in/serdargoleli/" target="_blank">
+        <a href="https://www.linkedin.com/in/serdargoleli/" rel="noreferrer" target="_blank">
           Linkedin ~
         </a>
       </div>
